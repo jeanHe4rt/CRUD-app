@@ -95,7 +95,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{jeanHe4rt}}</a>
+Made with :heart: by <a href="https://github.com/jeanHe4rt" target="_blank">jeanHe4rt</a>
 
 &#xa0;
 
