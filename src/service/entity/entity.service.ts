@@ -28,7 +28,7 @@ let entities: Entities = {
  * Service Methods
  */
 
-export const findall = async (): Promise<Entity[]> => Object.values(entities);
+export const findAll = async (): Promise<Entity[]> => Object.values(entities);
 
 export const find = async (id:number): Promise<Entity> => entities[id];
 
