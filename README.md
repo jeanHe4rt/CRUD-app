@@ -50,10 +50,10 @@ Projeto feito enquanto estava aprendedndo Typescrip em uma RestAPI
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\Cria uma Entidade\n
-:heavy_check_mark: Feature 2;\ Busca uma Entidade\n
-:heavy_check_mark: Feature 3;\ Atualiza uma Entidade\n
-:heavy_check_mark: Feature 4;\ Deleta uma Entidade\n
+:heavy_check_mark: Feature 1;Cria uma Entidade</br>
+:heavy_check_mark: Feature 2;\ Busca uma Entidade</br>
+:heavy_check_mark: Feature 3;\ Atualiza uma Entidade</br>
+:heavy_check_mark: Feature 4;\ Deleta uma Entidade</br>
 
 ## :rocket: Technologies ##
 
